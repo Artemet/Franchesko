@@ -1,0 +1,77 @@
+body{  
+    text-align: center;
+    color: brown;
+    background-color: wheat;
+    font-size: 60px;
+}
+
+g{
+    background-color: royalblue;
+    font-size: 23px;
+    color: white;
+}
+
+g:hover{
+    color: white;
+    background-color: red;
+    transition: 1s;
+}
+ 
+
+div{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    font-size: 43px;
+    color: brown;
+    background-color: dodgerblue;
+}
+
+img{
+    height: 255px;
+    line-height: 1px;
+}
+
+.Fran img{
+    text-align: left;   
+}
+
+sub{
+    font-size: 23px;
+    line-height: 50px;
+    color: brown;
+}
+
+kg{
+    line-height: 70px;
+    font-size: 38px;
+    color: forestgreen;
+    background-color: brown;
+}
+
+li{
+    color: forestgreen
+}
+
+nav{
+    color: royalblue;
+    font-size: 30px;
+}
+
+base{
+    color: violet;
+}
+
+span{
+    color: brown;
+    font-size: 70px;
+    line-height: 110px;
+    background-color: white;
+}
+
+img.one{
+    height: 125px;
+}
